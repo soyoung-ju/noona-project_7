@@ -1,0 +1,22 @@
+body {
+    font-family: Founders Grotesk text Regular, Noto Sans KR, Helvetica, Arial, sans-serif !important;
+}
+.container-fluid{
+    background-color: white;
+}
+
+.collapse{
+    align-items: center;
+}
+.second-line{
+    background-color: white;
+}
+.footer-style a{
+    text-decoration: none;
+    color: black;
+    padding-left: 20px;
+}
+
+.footer-style a:hover{
+    color: gray;
+}
